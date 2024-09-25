@@ -1,0 +1,12 @@
+
+@ unsplash API
+https://source.unsplash.com/widthxheight/?imagname,imagname"
+
+---> "https://source.unsplash.com/widthxheight/?coding,dam"
+
+
+@slider speed of riding  --- VIMP
+        <div id="carouselExampleSlidesOnly" class="carousel slide"data-ride="carousel"
+            data-interval="200" data-bs-ride="carousel">
+==============>data-ride="carousel"
+            data-interval="200" data-bs-ride="carousel
